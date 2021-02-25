@@ -16,7 +16,7 @@ const tasks = {
 }
 
 const getWhat  = tasks.getTaskToDo()
-console.log(getWhat);
+
 // //methode getTaskToDo
 
 // let findSomething=[];
